@@ -1,1 +1,1 @@
-# delianistor.gitub.io
+# delianistor.github.io
