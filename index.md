@@ -13,4 +13,4 @@ tipuri de linkuri in marckdown
 2. lnkuri referentiale
 
 #### linkuri clasice 
-[textul linkului ] (wwww.google.com)
+[textul linkului ](wwww.google.com)
